@@ -10,7 +10,7 @@ class Solution {
             long totalHours =0;
             for(int pile:piles){
                 totalHours += (pile+mid-1)/mid;
-            }
+            }//agar totalhours,h se bada hai to eat faster
             if(totalHours<=h){
                 high=mid;
             }else{
