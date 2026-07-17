@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0171-excel-sheet-column-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
