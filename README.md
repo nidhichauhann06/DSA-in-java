@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0415-add-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -56,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -72,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
