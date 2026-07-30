@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0441-arranging-coins) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
