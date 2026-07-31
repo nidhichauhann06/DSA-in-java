@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Recursion
 |  |
 | ------- |
