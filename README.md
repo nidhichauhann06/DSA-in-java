@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0278-first-bad-version) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
