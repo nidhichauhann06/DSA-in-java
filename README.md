@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Recursion
