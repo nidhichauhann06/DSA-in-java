@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
 |  |
@@ -94,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -135,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
