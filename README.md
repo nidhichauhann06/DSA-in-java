@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0917-reverse-only-letters) |
