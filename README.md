@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0520-detect-capital) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
