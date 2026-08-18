@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0541-reverse-string-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0696-count-binary-substrings) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
