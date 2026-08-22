@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0367-valid-perfect-square) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0392-is-subsequence) |
