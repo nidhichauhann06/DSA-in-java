@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3979-maximum-valid-pair-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3979-maximum-valid-pair-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0392-is-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [3979-maximum-valid-pair-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3979-maximum-valid-pair-sum) |
 <!---LeetCode Topics End-->
