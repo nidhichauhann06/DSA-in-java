@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3978-unique-middle-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3979-maximum-valid-pair-sum) |
 ## Binary Search
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
+| [3978-unique-middle-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
