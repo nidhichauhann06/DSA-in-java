@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2540-minimum-common-value) |
 | [3978-unique-middle-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3979-maximum-valid-pair-sum) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0917-reverse-only-letters) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
