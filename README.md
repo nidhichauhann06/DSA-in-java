@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
+| [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
+| [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1471-the-k-strongest-values-in-an-array) |
