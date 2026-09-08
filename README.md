@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2000-reverse-prefix-of-word) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3884-first-matching-character-from-both-ends) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2000-reverse-prefix-of-word) |
