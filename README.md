@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2000-reverse-prefix-of-word) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
