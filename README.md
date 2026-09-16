@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2000-reverse-prefix-of-word) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0392-is-subsequence) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
