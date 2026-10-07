@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1539-kth-missing-positive-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Linked List
 |  |
@@ -230,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
