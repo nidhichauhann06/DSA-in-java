@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0832-flipping-an-image) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/nidhichauhann06/DSA-in-java/tree/master/2540-minimum-common-value) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0594-longest-harmonious-subsequence) |
 | [0888-fair-candy-swap](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0594-longest-harmonious-subsequence) |
 | [3978-unique-middle-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -233,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
