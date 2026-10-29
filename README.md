@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0344-reverse-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0268-missing-number) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/nidhichauhann06/DSA-in-java/tree/master/1004-max-consecutive-ones-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nidhichauhann06/DSA-in-java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
